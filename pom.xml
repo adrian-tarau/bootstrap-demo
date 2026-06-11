@@ -72,7 +72,7 @@
     <inceptionYear>2023</inceptionYear>
 
     <properties>
-        <bootstrap.version>1.0.0-SNAPSHOT</bootstrap.version>
+        <bootstrap.version>1.0.0</bootstrap.version>
 
         <spring.boot.version>3.5.14</spring.boot.version>
     </properties>
