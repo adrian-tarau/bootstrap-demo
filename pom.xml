@@ -62,6 +62,7 @@
 		<!--module>extensions</module-->
         <module>web</module>
         <module>deploy</module>
+        <module>test</module>
     </modules>
 
     <issueManagement>
