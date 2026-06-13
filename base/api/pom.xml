@@ -28,7 +28,7 @@
     <parent>
         <groupId>net.microfalx.bootstrap</groupId>
         <artifactId>bootstrap-demo-base</artifactId>
-        <version>1.0.4</version>
+        <version>1.0.5-beta</version>
     </parent>
 
     <name>Bootstrap :: Demo :: Base :: API</name>
